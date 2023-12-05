@@ -5,3 +5,8 @@
 .hov:hover{
    transform: translateY(5px);
 }
+
+section{
+   padding-top: 7rem;
+   padding-bottom: 3rem;
+}
