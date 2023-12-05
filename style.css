@@ -1,0 +1,7 @@
+.hov{
+   transition: 0.5s;
+}
+
+.hov:hover{
+   transform: translateY(5px);
+}
